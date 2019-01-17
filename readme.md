@@ -18,6 +18,7 @@ that contains a row for each domain & nameserver IP.
 
 ## Results
 The resulting CSV will have the following columns:
+
 |Column|Meaning|
 |------|-------|
 |domain|Domain name tested|
